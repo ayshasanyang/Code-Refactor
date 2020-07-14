@@ -1,6 +1,6 @@
 # Responsive portfolio Pages
 
-Navbar-inverse was use in bootstrap to change the header and footer 
+Navbar-inverse was use in bootstrap to change the header and footer color
 
 
 <img src="Assets/images/index_page1.PNG" width="300" height="250">
