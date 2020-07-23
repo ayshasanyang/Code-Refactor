@@ -1,15 +1,15 @@
-# Responsive portfolio Pages
+# Horiseon Accessibility Refactoring
 
-Navbar-inverse was use in bootstrap to change the header and footer color
+Web accessibility is an increasingly important consideration for businesses,
+ensuring that people with disabilities or socio-economic restrictions
+have access to their website, and helping them avoid litigation.
 
 
-<img src="Assets/images/index_page1.PNG" width="300" height="250">
-
-<img src="Assets/images/index_page2.PNG" width="300" height="250">
+<img src="assets/images/refactor.PNG" width="300" height="250">
 This is how the page looks like when browser is resize
 
-<img src="Assets/images/index_page.PNG" width="300" height="250">
+<img src="assets/images/refactor1.PNG" width="300" height="250">
 
-<img src="Assets/images/contact.PNG" width="300" height="250">
+<img src="assets/images/refactor2.PNG" width="300" height="250">
 
-<img src="Assets/images/portfolio.PNG" width="300" height="250">
+<img src="assets/images/refactor3.PNG" width="300" height="250">
